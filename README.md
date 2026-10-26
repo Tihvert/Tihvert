@@ -10,7 +10,6 @@ Based in Finland. Roblox games, desktop and mobile apps, low-level tinkering.
 
 ## Public work
 
-- [FATEBOUND](https://github.com/Tihvert/FATEBOUND): project site for the Roblox game
 - [tihvert.xyz](https://github.com/Tihvert/tihvert.xyz): my personal site
 
 ## Contact
