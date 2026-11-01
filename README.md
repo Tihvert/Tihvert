@@ -2,7 +2,7 @@
 
 Writes code, breaks code, occasionally fixes it.
 
-Based in Finland. Roblox games, desktop and mobile apps, low-level tinkering.
+Based in Finland. Game mods, Roblox games, desktop and mobile apps, low-level tinkering.
 
 ## Stack
 
@@ -10,9 +10,12 @@ Based in Finland. Roblox games, desktop and mobile apps, low-level tinkering.
 
 ## Public work
 
+- [sekiro-coop](https://github.com/Tihvert/sekiro-coop): seamless co-op mod for Sekiro, 2 to 6 players. Beta, Rust. Also on [Nexus](https://www.nexusmods.com/sekiro/mods/2944)
 - [tihvert.xyz](https://github.com/Tihvert/tihvert.xyz): my personal site
 
 ## Contact
 
 - Site: [tihvert.xyz](https://tihvert.xyz)
+- X: [@Tihvert](https://x.com/Tihvert)
 - Discord: [Tihvert](https://discord.com/users/1015157576687698030)
+- Nexus: [Tihvert](https://www.nexusmods.com/profile/Tihvert)
